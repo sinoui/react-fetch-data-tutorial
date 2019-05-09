@@ -1,6 +1,7 @@
 {
   "name": "react-fetch-data-tutorial",
   "version": "0.1.0",
+  "description": "使用React Hooks加载数据教程源码",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
