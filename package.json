@@ -1,8 +1,9 @@
 {
   "name": "react-fetch-data-tutorial",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"

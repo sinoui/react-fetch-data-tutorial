@@ -1,24 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import ArticleList from './ArticleList';
+import QueryForm from './QueryForm';
+import LoadingIndicator from './LoadingIndicator';
+import useDataApi from './useDataApi';
 
 function App() {
+  const { data, isLoading, isError, doFetch } = useDataApi(
+    'http://hn.algolia.com/api/v1/search?query=react',
+    {
+      hits: [],
+    },
+  );
+
+  const handleSubmit = (query) => {
+    doFetch(`http://hn.algolia.com/api/v1/search?query=${query}`);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <QueryForm handleSubmit={handleSubmit} />
+      {isError && <div>加载数据失败</div>}
+      {isLoading ? <LoadingIndicator /> : <ArticleList articles={data.hits} />}
     </div>
   );
 }
