@@ -6,14 +6,14 @@ import useDataApi from './useDataApi';
 
 function App() {
   const { data, isLoading, isError, doFetch } = useDataApi(
-    'http://hn.algolia.com/api/v1/search?query=react',
+    '//hn.algolia.com/api/v1/search?query=react',
     {
       hits: [],
     },
   );
 
   const handleSubmit = (query) => {
-    doFetch(`http://hn.algolia.com/api/v1/search?query=${query}`);
+    doFetch(`//hn.algolia.com/api/v1/search?query=${query}`);
   };
 
   return (
