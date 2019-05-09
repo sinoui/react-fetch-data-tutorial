@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-fetch-data-tutorial/static/css/main.682ca21c.chunk.css",
-    "main.js": "/react-fetch-data-tutorial/static/js/main.2ded8e4e.chunk.js",
-    "main.js.map": "/react-fetch-data-tutorial/static/js/main.2ded8e4e.chunk.js.map",
+    "main.js": "/react-fetch-data-tutorial/static/js/main.d407d4b4.chunk.js",
+    "main.js.map": "/react-fetch-data-tutorial/static/js/main.d407d4b4.chunk.js.map",
     "runtime~main.js": "/react-fetch-data-tutorial/static/js/runtime~main.0c1cabf4.js",
     "runtime~main.js.map": "/react-fetch-data-tutorial/static/js/runtime~main.0c1cabf4.js.map",
     "static/js/2.7313cf0a.chunk.js": "/react-fetch-data-tutorial/static/js/2.7313cf0a.chunk.js",
     "static/js/2.7313cf0a.chunk.js.map": "/react-fetch-data-tutorial/static/js/2.7313cf0a.chunk.js.map",
     "index.html": "/react-fetch-data-tutorial/index.html",
-    "precache-manifest.5fbdbaa76048d62232ad3c2420ea71ce.js": "/react-fetch-data-tutorial/precache-manifest.5fbdbaa76048d62232ad3c2420ea71ce.js",
+    "precache-manifest.03d483c8bae6af33e492d21f398dccc8.js": "/react-fetch-data-tutorial/precache-manifest.03d483c8bae6af33e492d21f398dccc8.js",
     "service-worker.js": "/react-fetch-data-tutorial/service-worker.js",
     "static/css/main.682ca21c.chunk.css.map": "/react-fetch-data-tutorial/static/css/main.682ca21c.chunk.css.map"
   }
