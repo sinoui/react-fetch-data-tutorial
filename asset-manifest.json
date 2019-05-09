@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-data-fetch-tutorial/static/css/main.682ca21c.chunk.css",
-    "main.js": "/react-data-fetch-tutorial/static/js/main.2ded8e4e.chunk.js",
-    "main.js.map": "/react-data-fetch-tutorial/static/js/main.2ded8e4e.chunk.js.map",
-    "runtime~main.js": "/react-data-fetch-tutorial/static/js/runtime~main.13a2b1f1.js",
-    "runtime~main.js.map": "/react-data-fetch-tutorial/static/js/runtime~main.13a2b1f1.js.map",
-    "static/js/2.7313cf0a.chunk.js": "/react-data-fetch-tutorial/static/js/2.7313cf0a.chunk.js",
-    "static/js/2.7313cf0a.chunk.js.map": "/react-data-fetch-tutorial/static/js/2.7313cf0a.chunk.js.map",
-    "index.html": "/react-data-fetch-tutorial/index.html",
-    "precache-manifest.3b0ec5862a1336f4606295ebb8aaa159.js": "/react-data-fetch-tutorial/precache-manifest.3b0ec5862a1336f4606295ebb8aaa159.js",
-    "service-worker.js": "/react-data-fetch-tutorial/service-worker.js",
-    "static/css/main.682ca21c.chunk.css.map": "/react-data-fetch-tutorial/static/css/main.682ca21c.chunk.css.map"
+    "main.css": "/react-fetch-data-tutorial/static/css/main.682ca21c.chunk.css",
+    "main.js": "/react-fetch-data-tutorial/static/js/main.2ded8e4e.chunk.js",
+    "main.js.map": "/react-fetch-data-tutorial/static/js/main.2ded8e4e.chunk.js.map",
+    "runtime~main.js": "/react-fetch-data-tutorial/static/js/runtime~main.0c1cabf4.js",
+    "runtime~main.js.map": "/react-fetch-data-tutorial/static/js/runtime~main.0c1cabf4.js.map",
+    "static/js/2.7313cf0a.chunk.js": "/react-fetch-data-tutorial/static/js/2.7313cf0a.chunk.js",
+    "static/js/2.7313cf0a.chunk.js.map": "/react-fetch-data-tutorial/static/js/2.7313cf0a.chunk.js.map",
+    "index.html": "/react-fetch-data-tutorial/index.html",
+    "precache-manifest.5fbdbaa76048d62232ad3c2420ea71ce.js": "/react-fetch-data-tutorial/precache-manifest.5fbdbaa76048d62232ad3c2420ea71ce.js",
+    "service-worker.js": "/react-fetch-data-tutorial/service-worker.js",
+    "static/css/main.682ca21c.chunk.css.map": "/react-fetch-data-tutorial/static/css/main.682ca21c.chunk.css.map"
   }
 }
